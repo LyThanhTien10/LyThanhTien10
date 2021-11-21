@@ -46,6 +46,3 @@ I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.s
 
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=vanzasetia&)
 
-## :trophy: Trophy
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanzasetia" alt="vanzasetia" /></a> </p>
