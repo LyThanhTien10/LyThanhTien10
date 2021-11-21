@@ -5,7 +5,7 @@
 ## :star:## :star:## :star: About me
 You can see more information about me [here](https://resume.tienlythanh.com)
 
-## :star:star:star: Skills
+## :star::star::star: Skills
 
 HTML, CSS, Sass, JavaScript, Linux Command Line, Git (using git bash), and basic web accessibility.
 
