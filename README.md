@@ -2,7 +2,7 @@
 
 ![Banner](https://git.io/JrCSm)
 
-## :star:## :star:## :star: About me
+## :star::star::star: About me
 You can see more information about me [here](https://resume.tienlythanh.com)
 
 ## :star::star::star: Skills
@@ -18,7 +18,7 @@ HTML, CSS, Sass, JavaScript, Linux Command Line, Git (using git bash), and basic
   <img src="https://git.io/JrCQk" alt="web accessibility" width="auto" height="70"/>
 </p>
 
-## :star:## :star:## :star: What are you currently learning?
+## :star::star::star: What are you currently learning?
 
 Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my JavaScript skill. [See more here](https://tienlythanh.com/)
 <p align="left">
@@ -28,7 +28,7 @@ Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web
   <img src="https://git.io/JrCQk" alt="web accessibility" width="auto" height="70"/>
 </p>
 
-## :star:## :star:## :star: How can I connect with you?
+## :star::star::star: How can I connect with you?
 
 You can email me through <a href="mailto: personal.tienly10@gmail.com">Gmail</a> or you can DM me on [Twitter](https://twitter.com/LyThanhTienCS). You can talk to me about coding in general.
 
@@ -37,7 +37,7 @@ You can email me through <a href="mailto: personal.tienly10@gmail.com">Gmail</a>
   <a href="https://twitter.com/LyThanhTienCS" target="_blank"><img src="https://git.io/JrCAv" alt="Twitter." height="60px"></a> &nbsp;
 </p>
 
-## :star:## :star:## :star: GitHub Stats
+## :star::star::star: GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LyThanhTien10&show_icons=true&locale=en)
 
