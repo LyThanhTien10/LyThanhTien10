@@ -3,7 +3,7 @@
 ![Banner](https://git.io/JrCSm)
 
 ## :star: About me
-You can see more information about me [here](resume.tienlythanh.com)
+You can see more information about me [here](https://resume.tienlythanh.com)
 
 ## :star: Skills
 
