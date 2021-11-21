@@ -30,7 +30,7 @@ Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web
 
 ## :star::star::star: How can I connect with you?
 
-You can email me through <a href="mailto: personal.tienly10@gmail.com">Gmail</a> or you can DM me on [Twitter](https://twitter.com/LyThanhTienCS). You can talk to me about coding in general.
+You can email me through <a href="https://www.facebook.com/tien.lythanh10/">Facebook</a> or you can DM me on [Twitter](https://twitter.com/LyThanhTienCS). You can talk to me about coding in general.
 
 <p align="left">
   <a href="mailto: personal.tienly10@gmail.com" target="_blank"><img src="https://git.io/JrCxc" alt="Gmail." width="auto" height="60px"></a> &nbsp;
