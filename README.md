@@ -33,9 +33,8 @@ You can email me through <a href="mailto: venusbumi2@gmail.com">Gmail</a> or you
 I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.slack.com), you can chat with me there too.
 
 <p align="left">
-  <a href="mailto:venusbumi2@gmail.com" target="_blank"><img src="https://git.io/JrCxc" alt="Gmail." width="auto" height="60px"></a> &nbsp;
-  <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://git.io/JrCAv" alt="Twitter." height="60px"></a> &nbsp;
-  <img src="https://git.io/JrCp7" alt="Slack." height="60px">
+  <a href="mailto:personal.tienly10@gmail.com" target="_blank"><img src="https://git.io/JrCxc" alt="Gmail." width="auto" height="60px"></a> &nbsp;
+  <a href="https://twitter.com/LyThanhTienCS" target="_blank"><img src="https://git.io/JrCAv" alt="Twitter." height="60px"></a> &nbsp;
 </p>
 
 
