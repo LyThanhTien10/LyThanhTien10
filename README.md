@@ -17,8 +17,7 @@ HTML, CSS, Sass, JavaScript, Linux Command Line, Git (using git bash), and basic
 
 ## :books: What are you currently learning?
 
-Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my JavaScript skill by doing [Frontend Mentor challenges](https://www.frontendmentor.io/challenges/).
-
+Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my JavaScript skill
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="70"/>
@@ -28,21 +27,16 @@ Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web
 
 ## :eyes: How can I connect with you?
 
-You can email me through <a href="mailto: venusbumi2@gmail.com">Gmail</a> or you can DM me on [Twitter](https://twitter.com/vanzasetia). You can talk to me about coding in general.
-
-I also has joined the [Frontend Mentor Slack Community](https://frontendmentor.slack.com), you can chat with me there too.
+You can email me through <a href="mailto: personal.tienly10@gmail.com">Gmail</a> or you can DM me on [Twitter](https://twitter.com/vanzasetia). You can talk to me about coding in general.
 
 <p align="left">
-  <a href="mailto:personal.tienly10@gmail.com" target="_blank"><img src="https://git.io/JrCxc" alt="Gmail." width="auto" height="60px"></a> &nbsp;
+  <a href="mailto: personal.tienly10@gmail.com" target="_blank"><img src="https://git.io/JrCxc" alt="Gmail." width="auto" height="60px"></a> &nbsp;
   <a href="https://twitter.com/LyThanhTienCS" target="_blank"><img src="https://git.io/JrCAv" alt="Twitter." height="60px"></a> &nbsp;
 </p>
 
 
 ## :bar_chart: GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vanzasetia&show_icons=true&locale=en)
+![Github stats](https://github-readme-stats.vercel.app/api?username=LyThanhTien10&show_icons=true&locale=en)
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=vanzasetia&show_icons=true&locale=en&layout=compact)
-
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=vanzasetia&)
-
+![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=LyThanhTien10&show_icons=true&locale=en&layout=compact)
