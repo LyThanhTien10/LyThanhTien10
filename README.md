@@ -2,6 +2,9 @@
 
 ![Banner](https://git.io/JrCSm)
 
+## :star: About me
+You can see more information about me [here](resume.tienlythanh.com)
+
 ## :star: Skills
 
 HTML, CSS, Sass, JavaScript, Linux Command Line, Git (using git bash), and basic web accessibility.
@@ -17,7 +20,7 @@ HTML, CSS, Sass, JavaScript, Linux Command Line, Git (using git bash), and basic
 
 ## :books: What are you currently learning?
 
-Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my JavaScript skill
+Right now, I'm learning Vanilla JavaScript, Git, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my JavaScript skill. [See more here](https://tienlythanh.com/)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="70"/>
@@ -33,7 +36,6 @@ You can email me through <a href="mailto: personal.tienly10@gmail.com">Gmail</a>
   <a href="mailto: personal.tienly10@gmail.com" target="_blank"><img src="https://git.io/JrCxc" alt="Gmail." width="auto" height="60px"></a> &nbsp;
   <a href="https://twitter.com/LyThanhTienCS" target="_blank"><img src="https://git.io/JrCAv" alt="Twitter." height="60px"></a> &nbsp;
 </p>
-
 
 ## :bar_chart: GitHub Stats
 
